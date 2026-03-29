@@ -1,10 +1,11 @@
-# Midi Gen
+# midi-gen
 
-A zero-dependency Python CLI tool.
+MIDI file generation (notes, chords, sequences).
 
 ## Usage
 
 ```bash
-python midi_gen.py test
-python midi_gen.py demo
+python3 midi_gen.py test
 ```
+
+Zero dependencies. Python 3.8+.
